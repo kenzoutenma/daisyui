@@ -1,6 +1,7 @@
 <script>
   import SEO from "$components/SEO.svelte"
-  import Footer from "$components/Footer.svelte"
+  import StoreFooter from "$components/StoreFooter.svelte"
+
   let dialogs = $state({})
 
   let videoModal = $state({
@@ -4090,7 +4091,7 @@
             F.A.Q
           </h2>
           <p class="text-base-content/60 text-xs">
-            If you have any questions before purchase <br />send me an email to pouya@daisyui.com
+            If you have any questions before purchase <br />send me an email to help@daisyui.com
             <br />I will do my best to help you.
           </p>
         </div>
@@ -4149,8 +4150,9 @@
             <div
               class="collapse-content text-base-content/70 border-base-content/10 ms-4 border-s-2 px-6 text-xs"
             >
-              Yes you can cancel your subscription at any time. If you cancel, you will still have
-              access to the product until the end of your billing cycle.
+              Yes you can cancel your subscription at any time at
+              https://www.creem.io/my-orders/login. If you cancel, you will still have access to the
+              product until the end of your billing cycle.
             </div>
           </div>
           <div class="collapse-plus collapse">
@@ -4719,7 +4721,7 @@
   </form>
 </dialog> -->
 
-<Footer />
+<StoreFooter />
 
 <style>
   @keyframes fade-in {
