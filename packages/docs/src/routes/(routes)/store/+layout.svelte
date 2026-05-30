@@ -4,10 +4,11 @@
 </script>
 
 <svelte:head>
-  <script>
+  <!-- <script>
     window.lemonSqueezyAffiliateConfig = { store: "daisyui" }
-  </script>
-  <script src="https://lmsqueezy.com/affiliate.js" defer></script>
+  </script> -->
+  <!-- <script src="https://lmsqueezy.com/affiliate.js" defer></script> -->
+  <script src="https://www.evendeals.com/banner.js"></script>
 </svelte:head>
 <div class="w-full px-4 pt-20 md:px-20" dir="ltr">
   {@render children?.()}

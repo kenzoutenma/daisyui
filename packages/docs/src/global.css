@@ -67,6 +67,10 @@
   } */
 }
 
+pre.shiki[tabindex="0"]:focus-visible {
+  @apply outline-base-300 outline-2 -outline-offset-4;
+}
+
 .code-wrapper {
   background-color: var(--color-neutral);
   border-radius: var(--radius-box);
@@ -561,4 +565,12 @@
     transform: translateY(0);
     animation-timing-function: ease-out;
   }
+}
+
+/* 3rd party */
+#ed-banner-bottom-root .ed-bar .ed-left-section {
+  visibility: hidden;
+}
+#ed-banner-bottom-root .ed-bar .ed-country-flag {
+  border: none;
 }
