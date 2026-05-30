@@ -15,39 +15,15 @@ xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01
       <![CDATA[ Professional templates made by daisyUI ]]>
     </description>
     <link>https://daisyui.com/store//</link>
-    <lastBuildDate>Tue, 05 May 2026 10:29:41 GMT</lastBuildDate>
-    <pubDate>Tue, 05 May 2026 10:29:41 GMT</pubDate>
+    <lastBuildDate>Sat, 30 May 2026 10:45:29 GMT</lastBuildDate>
+    <pubDate>Sat, 30 May 2026 10:45:29 GMT</pubDate>
     <language>en-us</language>
     <atom:link href="https://daisyui.com/store//rss.xml" rel="self" type="application/rss+xml"/>
 
     
         <item>
           <title>
-            <![CDATA[ daisyUI Charts ]]>
-          </title>
-          <description>
-            <![CDATA[ > 🎁 Use code **CHART30** to get 30% discount. Valid until April 12th.
-
-daisyUI Charts is a collection of chart integrations for daisyUI.
-
-
-- 39 different chart examples, easy to copy
-- Made with daisyUI and Apex Charts
-- Compatible with all daisyUI themes
-- Provides code examples for React, Vue, Svelte, Vanilla JS
-- Only one package dependency: Apex Charts (Or can be used with CDN link instead of Node package)
-- Easy copy/paste codes, no additional config or styles needed
-- Includes multiple examples for line charts, bar charts, area charts, column charts and pie charts.
-- Coming soon: raidal chart, heatmap charts and radar charts ]]>
-          </description>
-          <link>undefined/</link>
-          <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
-          <guid isPermaLink="false">undefined/</guid>
-        </item>
-      
-        <item>
-          <title>
-            <![CDATA[ Nexus Dashboard 3.3 ]]>
+            <![CDATA[ Nexus Dashboard 4.0 ]]>
           </title>
           <description>
             <![CDATA[ The ultimate dashboard template
@@ -56,20 +32,20 @@ Made with Tailwind CSS 4 and daisyUI 5
 
 Including:
   - All pages
-  - 3 dashboard layouts (CRM, e-commerce, Gen-AI)
+  - 6 dashboard layouts (CRM, e-commerce, Gen-AI, Growth, AI Ops, Corporate Finance)
   - Landing page
   - 10 e-commerce pages with tables, forms, cards, etc
   - File manager app layout
   - Chat app layout
   - 4 pages for the gen-AI app (home, images, content creator, library)
-  - Agentic Storage UI 🆕
+  - Agentic Storage UI
   - 4 auth pages including login, register, password reset
   - Profile settings page and support/FAQ page
-  - Foundation component example 🆕
-  - 15+ Ready to use UI blocks 🆕
-  - 50+ Common layout examples 🆕
-  - 100+ Interaction examples with different plugin integrations 🆕
-  - LLM files 🆕
+  - Foundation component example
+  - 15+ Ready to use UI blocks
+  - 50+ Common layout examples
+  - 100+ Interaction examples with different plugin integrations
+  - LLM files
   - Apex charts
   - 6 exclusive customizable themes
   - Compatible with all daisyUI themes
@@ -81,7 +57,7 @@ Solo license:
 
 
 Team and Enterprise license:
-  - includes HTML, React, Next.js, Nuxt, SvelteKit, Laravel Blade, Elixir Phoenix versions + Ruby On Rails version 🆕
+  - includes HTML, React, Next.js, Nuxt, SvelteKit, Laravel Blade, Elixir Phoenix, Ruby On Rails and Angular versions
   - For unlimited developers
   - For unlimited projects (Enterprise only) ]]>
           </description>
@@ -113,7 +89,7 @@ Team and Enterprise license:
       
         <item>
           <title>
-            <![CDATA[ Scalo Startup Template 3.0 ]]>
+            <![CDATA[ Scalo Startup Template 4.0 ]]>
           </title>
           <description>
             <![CDATA[ Scalo is the ultimate startup front-end template
@@ -122,8 +98,8 @@ Made with Tailwind CSS 4 and daisyUI 5
 
 Including:
   - Components and blocks
-  - 36 Pages
-  - 4 Landing pages (Automation, Developer, Sales, Storage)
+  - 40 Pages
+  - 7 Landing pages (Automation, Developer, Sales, Storage, Crypto, Builder, Cloud AI)
   - 7 Pricing sections (Lifetime, Subscription, User-based & comparison-based)
   - 6 Auth pages (Login, Register, 2FA, Forgot password, Reset password, Verify)
   - Settings (Profile, Account, Notification & Manage plans)
@@ -147,6 +123,29 @@ Team and Enterprise license:
           </description>
           <link>undefined/</link>
           <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+          <guid isPermaLink="false">undefined/</guid>
+        </item>
+      
+        <item>
+          <title>
+            <![CDATA[ daisyUI Charts ]]>
+          </title>
+          <description>
+            <![CDATA[ 
+daisyUI Charts is a collection of chart integrations for daisyUI.
+
+
+- 39 different chart examples, easy to copy
+- Made with daisyUI and Apex Charts
+- Compatible with all daisyUI themes
+- Provides code examples for React, Vue, Svelte, Vanilla JS
+- Only one package dependency: Apex Charts (Or can be used with CDN link instead of Node package)
+- Easy copy/paste codes, no additional config or styles needed
+- Includes multiple examples for line charts, bar charts, area charts, column charts and pie charts.
+- Coming soon: raidal chart, heatmap charts and radar charts ]]>
+          </description>
+          <link>undefined/</link>
+          <pubDate>Thu, 02 Apr 2026 00:00:00 GMT</pubDate>
           <guid isPermaLink="false">undefined/</guid>
         </item>
       
